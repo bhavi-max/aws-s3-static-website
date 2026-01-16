@@ -28,3 +28,6 @@ User → Browser → Amazon S3 Static Website Endpoint
 =>  Amazon S3 static website hosting
 =>  Bucket policy and public access configuration
 =>  Hosting websites without servers
+## Live Website
+🔗 http://websitehosting-388410206571.s3-website.ca-central-1.amazonaws.com
+
